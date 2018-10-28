@@ -1,5 +1,5 @@
+![logo](/gproductlogo.png)
 ![logo](/logo.png)
-
 # The Gelato Product(tm)
 ## A really well conceived plan to make a Matrix bot
 
